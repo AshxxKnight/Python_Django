@@ -1,1 +1,3 @@
 # Python_Django
+
+This repository contains backend application for an application having different role based users ans views for apis performing operations like search , authentication and authorisations and various other app based features for placing order, viewing all products and many more...
